@@ -321,7 +321,7 @@
 													<?php
 														$leon_phone = '+38 098 516 05 20';
 													?>
-													<a href="#">
+													<a href="tel:<?php echo $leon_phone; ?>">
 														<?php echo $leon_phone; ?>
 													</a>
 												</li>
@@ -333,7 +333,7 @@
 													<?php
 														$alex_phone = '+38 067 200 200 6';
 													?>
-													<a href="#">
+													<a href="tel:">
 														<?php echo $alex_phone; ?>
 													</a>
 												</li>
