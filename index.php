@@ -338,16 +338,7 @@
 													</a>
 												</li>
 												<!-- /Alex-K -->
-												<li class="icon solid fa-envelope">
-                                                    <li class="icon solid fa-phone">
-													<?php
-														$alex_phone = '+38 067 200 200 6'
-													?>
-													<a href="#">
-														<?php echo $alex_phone; ?>
-													</a>
-												</li>
-												<!-- /Alex-K -->
+
 												<li class="icon solid fa-envelope">
 													<a href="#">info@untitled.tld</a>
 												</li>
