@@ -318,8 +318,36 @@
 													USA
 												</li>
 												<li class="icon solid fa-phone">
-													(000) 000-0000
+													<?php
+														$leon_phone = '+38 098 516 05 20';
+													?>
+													<a href="#">
+														<?php echo $leon_phone; ?>
+													</a>
 												</li>
+												
+												
+
+												<!-- Alex-K -->
+												<li class="icon solid fa-phone">
+													<?php
+														$alex_phone = '+38 067 200 200 6';
+													?>
+													<a href="#">
+														<?php echo $alex_phone; ?>
+													</a>
+												</li>
+												<!-- /Alex-K -->
+												<li class="icon solid fa-envelope">
+                                                    <li class="icon solid fa-phone">
+													<?php
+														$alex_phone = '+38 067 200 200 6'
+													?>
+													<a href="#">
+														<?php echo $alex_phone; ?>
+													</a>
+												</li>
+												<!-- /Alex-K -->
 												<li class="icon solid fa-envelope">
 													<a href="#">info@untitled.tld</a>
 												</li>
@@ -333,6 +361,7 @@
 												<li class="icon brands fa-instagram">
 													<a href="#">instagram.com/untitled</a>
 												</li>
+
 												<li class="icon brands fa-dribbble">
 													<a href="#">dribbble.com/untitled</a>
 												</li>
